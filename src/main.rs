@@ -8,4 +8,7 @@ fn main() {
 
     println!("");
     days::day02::main();
+
+    println!("");
+    days::day03::main();
 }
