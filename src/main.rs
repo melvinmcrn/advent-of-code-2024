@@ -1,8 +1,11 @@
 mod days;
 
 fn main() {
-    println!("Advent of Code 2024!");
+    println!("Advent of Code 2024!\n");
 
+    println!("");
     days::day01::main();
-    // days::day02::solve();
+
+    println!("");
+    days::day02::main();
 }
