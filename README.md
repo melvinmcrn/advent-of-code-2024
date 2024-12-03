@@ -37,19 +37,19 @@ To run the solutions, ensure you have Rust installed on your machine. Then, foll
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/melvinmcrn/advent-of-code-2024.git
-   cd advent-of-code-2024
+git clone https://github.com/melvinmcrn/advent-of-code-2024.git
+cd advent-of-code-2024
 ```
 
 2. Compile and run the solution for a specific day (e.g., Day 1):
 ```bash
-   rustc src/days/day01.rs -o day01
-   ./day01
+rustc src/days/day01.rs -o day01
+./day01
 ```
 
 3. Alternatively, modify the `src/main.rs` to call the desired day's solution, and then run:
 ```bash
-   cargo run
+cargo run
 ```
 
 4. The program will automatically read the corresponding input file from the `inputs/` directory.
