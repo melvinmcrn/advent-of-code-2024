@@ -17,4 +17,7 @@ fn main() {
 
     println!("");
     days::day05::main();
+
+    println!("");
+    days::day06::main();
 }
