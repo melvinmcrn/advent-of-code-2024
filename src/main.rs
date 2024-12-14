@@ -1,23 +1,23 @@
-mod days;
+mod bin;
 
 fn main() {
     println!("Advent of Code 2024!\n");
 
     println!("");
-    days::day01::main();
+    bin::day01::main();
 
     println!("");
-    days::day02::main();
+    bin::day02::main();
 
     println!("");
-    days::day03::main();
+    bin::day03::main();
 
     println!("");
-    days::day04::main();
+    bin::day04::main();
 
     println!("");
-    days::day05::main();
+    bin::day05::main();
 
     println!("");
-    days::day06::main();
+    bin::day06::main();
 }
