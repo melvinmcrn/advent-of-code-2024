@@ -20,4 +20,10 @@ fn main() {
 
     println!("");
     bin::day06::main();
+
+    println!("");
+    bin::day07::main();
+
+    println!("");
+    bin::day08::main();
 }
