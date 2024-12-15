@@ -26,4 +26,7 @@ fn main() {
 
     println!("");
     bin::day08::main();
+
+    println!("");
+    bin::day09::main();
 }
