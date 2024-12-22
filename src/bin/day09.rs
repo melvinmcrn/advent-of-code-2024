@@ -2,7 +2,7 @@ use std::fs::File;
 use std::io::{BufRead, BufReader};
 
 pub fn main() {
-    println!("Day 09 solution!");
+    println!("Day 09 Part 1 solution!");
 
     // Open the input file
     let file = File::open("inputs/day09.txt").expect("Cannot open file");
